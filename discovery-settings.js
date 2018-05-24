@@ -15,6 +15,7 @@ settings.acceptType = "application/json";
 // your service identifiers
 settings.serviceName = "uuid-generator";
 settings.serviceURL = "http://rwmbook-uuid.herokuapp.com";
+settings.tags = "amundsen uuid free";
 
 // the registry service endpoints
 settings.registerURL = "http://rwmbook-registry.herokuapp.com/reg/";

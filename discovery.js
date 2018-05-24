@@ -29,7 +29,8 @@ function register(data, cb) {
     data = {
     serviceName : settings.serviceName,
     serviceURL : settings.serviceURL,
-    renewTTL : settings.renewTTL
+    renewTTL : settings.renewTTL,
+    tags : settings.tags||""
     }
   }
 
